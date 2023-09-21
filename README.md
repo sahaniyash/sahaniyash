@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashkumar Sahani</h1>
 <h3 align="center">An enthusiastic Software Developer hailing from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaniyash&label=Profile%20views&color=0e75b6&style=flat" alt="sahaniyash" /> </p>
+
 
 - 📫 You can reach me via email at **sahaniyash2333@gmail.com**
 
